@@ -9,3 +9,5 @@ Photo Sharing app in Laravel Vue
 php artisan serve
 
 npm run dev
+
+https://youtu.be/ybdmm-0i9RI
