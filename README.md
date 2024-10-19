@@ -1,5 +1,8 @@
 Photo Sharing app in Laravel Vue
 
+Multiple picture upload with dropzone
+Picture upload with simple-vue-camera
+
 <img src="images/1.png">
 <img src="images/2.png">
 <img src="images/3.png">
